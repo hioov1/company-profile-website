@@ -10,7 +10,7 @@ Images :
   • About Page Image by Peter Scherbatykh: https://unsplash.com/photos/person-in-blue-long-sleeve-shirt-using-black-laptop-computer-EA4RFyQfptk
   • Service Page Image by SOCIAL.CUT: https://unsplash.com/photos/a-group-of-people-sitting-around-a-table-with-laptops-UThaHAc8wh0
 
-© Copyright 2025, Created by hioov1
+Created by hioov1
 
 If you're interested in my work, feel free to reach out!
 
