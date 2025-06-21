@@ -1,9 +1,9 @@
 import "./globals.css";
 import { ReactNode } from "react";
-import Menu from "../components/Menu";
+import Menu from "./components/Menu";
 
 export const metadata = {
-  title: "Twiscode",
+  title: "Company Profile",
   description: "We Code, We Deliver",
 };
 
